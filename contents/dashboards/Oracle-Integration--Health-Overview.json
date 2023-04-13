@@ -1,0 +1,12 @@
+{
+  "dashboards": [
+    {
+      "code": "NotAuthorizedOrNotFound",
+      "message": "Authorization failed or requested resource not found.",
+      "compartmentId": "${compartment_ocid}"
+    }
+  ]
+}
+{
+  "dashboards": []
+}
